@@ -1,0 +1,19 @@
+[user]
+	name = Luke Bakken
+	email = luke@bakken.io
+[core]
+	autocrlf = input
+	safecrlf = true
+	filemode = true
+[url "https://"]   
+    insteadOf = git://
+[url "/home/lbakken/rmq-repos"]   
+    insteadOf = git://github.com
+[url "/home/lbakken/rmq-repos"]   
+    insteadOf = https://github.com
+[url "/home/lbakken/rmq-repos/"]   
+    insteadOf = git@github.com:
+[url "/home/lbakken/repos/rmq-repos/rabbitmq"]   
+    insteadOf = git@github.com:/basho
+[url "/home/lbakken/repos/rmq-repos/rabbitmq"]   
+    insteadOf = git@github.com:basho
