@@ -5,15 +5,15 @@
 	autocrlf = input
 	safecrlf = true
 	filemode = true
-[url "https://"]   
+[url "https://"]
     insteadOf = git://
-[url "/home/lbakken/rmq-repos"]   
+[url "/home/lbakken/rmq"]
     insteadOf = git://github.com
-[url "/home/lbakken/rmq-repos"]   
+[url "/home/lbakken/rmq"]
     insteadOf = https://github.com
-[url "/home/lbakken/rmq-repos/"]   
+[url "/home/lbakken/rmq/"]
     insteadOf = git@github.com:
-[url "/home/lbakken/repos/rmq-repos/rabbitmq"]   
+[url "/home/lbakken/repos/rmq/rabbitmq"]
     insteadOf = git@github.com:/basho
-[url "/home/lbakken/repos/rmq-repos/rabbitmq"]   
+[url "/home/lbakken/repos/rmq/rabbitmq"]
     insteadOf = git@github.com:basho
