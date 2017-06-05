@@ -2,7 +2,7 @@
 
 set -o errexit
 
-for D in $(<riak-deps.txt)
+for D in $(< rmq-deps.txt)
 do
     if [[ $D == https* ]]
     then
