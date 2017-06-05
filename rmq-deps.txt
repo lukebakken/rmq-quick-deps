@@ -1,3 +1,8 @@
+https://github.com/ninenines/ranch.git
+https://github.com/ninenines/cowboy.git
+https://github.com/ninenines/cowlib.git
+https://github.com/manopapad/proper.git
+https://github.com/rabbitmq/sockjs-erlang.git
 https://github.com/rabbitmq/rabbitmq-erlang-client.git
 https://github.com/rabbitmq/rabbitmq-server.git
 https://github.com/rabbitmq/rabbitmq-common.git
