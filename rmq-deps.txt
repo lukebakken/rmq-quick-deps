@@ -10,6 +10,7 @@ https://github.com/ninenines/cowlib.git
 https://github.com/manopapad/proper.git
 https://github.com/rebar/rebar.git
 https://github.com/talentdeficit/jsx.git
+https://github.com/rabbitmq/cth_styledout.git
 https://github.com/rabbitmq/sockjs-erlang.git
 https://github.com/rabbitmq/rabbitmq-erlang-client.git
 https://github.com/rabbitmq/rabbitmq-server.git
