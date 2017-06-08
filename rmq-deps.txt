@@ -1,7 +1,9 @@
 https://github.com/basho/goldrush.git
 https://github.com/basho/lager.git
+https://github.com/erlang/otp.git
 https://github.com/erlang-lager/lager.git
 https://github.com/heroku/ranch_proxy_protocol.git
+https://github.com/inaka/elvis.mk.git
 https://github.com/ninenines/ranch.git
 https://github.com/ninenines/cowboy.git
 https://github.com/ninenines/cowlib.git
@@ -13,6 +15,8 @@ https://github.com/rabbitmq/rabbitmq-erlang-client.git
 https://github.com/rabbitmq/rabbitmq-server.git
 https://github.com/rabbitmq/rabbitmq-common.git
 https://github.com/rabbitmq/rabbitmq-amqp1.0.git
+https://github.com/rabbitmq/rabbitmq-amqp1.0-client.git
+https://github.com/rabbitmq/rabbitmq-amqp1.0-common.git
 https://github.com/rabbitmq/rabbitmq-auth-backend-amqp.git
 https://github.com/rabbitmq/rabbitmq-auth-backend-cache.git
 https://github.com/rabbitmq/rabbitmq-auth-backend-http.git
