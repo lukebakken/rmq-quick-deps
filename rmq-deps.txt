@@ -1,5 +1,6 @@
 https://github.com/basho/goldrush.git
 https://github.com/basho/lager.git
+https://github.com/eproxus/meck.git
 https://github.com/erlang/otp.git
 https://github.com/erlang-lager/lager.git
 https://github.com/extend/ct_helper.git
