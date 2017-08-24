@@ -7,6 +7,7 @@ https://github.com/extend/ct_helper.git
 https://github.com/heroku/ranch_proxy_protocol.git
 https://github.com/hyperthunk/hamcrest-erlang.git
 https://github.com/inaka/elvis.mk.git
+https://github.com/mochi/mochiweb.git
 https://github.com/ninenines/ranch.git
 https://github.com/ninenines/cowboy.git
 https://github.com/ninenines/cowlib.git
