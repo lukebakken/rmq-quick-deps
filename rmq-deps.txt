@@ -61,6 +61,7 @@ https://github.com/rabbitmq/rabbitmq-peer-discovery-common.git
 https://github.com/rabbitmq/rabbitmq-peer-discovery-consul.git
 https://github.com/rabbitmq/rabbitmq-peer-discovery-etcd.git
 https://github.com/rabbitmq/rabbitmq-peer-discovery-k8s.git
+https://github.com/rabbitmq/rabbitmq-random-exchange.git
 https://github.com/rabbitmq/rabbitmq-recent-history-exchange.git
 https://github.com/rabbitmq/rabbitmq-routing-node-stamp.git
 https://github.com/rabbitmq/rabbitmq-rtopic-exchange.git
