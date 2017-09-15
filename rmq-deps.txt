@@ -46,6 +46,7 @@ https://github.com/rabbitmq/rabbitmq-java-client.git
 https://github.com/rabbitmq/rabbitmq-jms-client.git
 https://github.com/rabbitmq/rabbitmq-jms-cts.git
 https://github.com/rabbitmq/rabbitmq-jms-topic-exchange.git
+https://github.com/rabbitmq/rabbitmq-lvc-exchange.git
 https://github.com/rabbitmq/rabbitmq-lvc-plugin.git
 https://github.com/rabbitmq/rabbitmq-management.git
 https://github.com/rabbitmq/rabbitmq-management-agent.git
