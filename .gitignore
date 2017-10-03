@@ -1,11 +1,17 @@
 erl_crash.dump
 
+DeadZen/
 basho/
-erlang/
+eproxus/
 erlang-lager/
+erlang/
+extend/
+ferd/
 heroku/
+hyperthunk/
 inaka/
 manopapad/
+mochi/
 ninenines/
 rabbitmq/
 rebar/

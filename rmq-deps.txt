@@ -6,6 +6,7 @@ https://github.com/eproxus/meck.git
 https://github.com/erlang/otp.git
 https://github.com/erlang-lager/lager.git
 https://github.com/extend/ct_helper.git
+https://github.com/ferd/recon.git
 https://github.com/heroku/ranch_proxy_protocol.git
 https://github.com/hyperthunk/hamcrest-erlang.git
 https://github.com/inaka/elvis.mk.git
