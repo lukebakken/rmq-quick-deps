@@ -3,6 +3,7 @@ https://github.com/basho/goldrush.git
 https://github.com/basho/lager.git
 https://github.com/basho/webmachine.git
 https://github.com/emqtt/emqttc.git
+https://github.com/emqtt/gen_logger.git
 https://github.com/eproxus/meck.git
 https://github.com/erlang/otp.git
 https://github.com/erlang-lager/lager.git
