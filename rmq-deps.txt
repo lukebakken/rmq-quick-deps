@@ -19,8 +19,12 @@ https://github.com/ninenines/cowlib.git
 https://github.com/manopapad/proper.git
 https://github.com/rebar/rebar.git
 https://github.com/talentdeficit/jsx.git
+https://github.com/rabbitmq/eldap-wrapper.git
+https://github.com/rabbitmq/cowboy-wrapper.git
 https://github.com/rabbitmq/cth_styledout.git
+https://github.com/rabbitmq/mochiweb-wrapper.git
 https://github.com/rabbitmq/sockjs-erlang.git
+https://github.com/rabbitmq/sockjs-erlang-wrapper.git
 https://github.com/rabbitmq/rabbitmq-erlang-client.git
 https://github.com/rabbitmq/rabbitmq-server.git
 https://github.com/rabbitmq/rabbitmq-common.git
@@ -85,5 +89,6 @@ https://github.com/rabbitmq/rabbitmq-web-stomp-examples.git
 https://github.com/rabbitmq/rabbitmq-web-mqtt.git
 https://github.com/rabbitmq/rabbitmq-web-mqtt-examples.git
 https://github.com/rabbitmq/rabbitmq-website.git
-https://github.com/rabbitmq/toke.git
 https://github.com/rabbitmq/rabbitmq-public-umbrella.git
+https://github.com/rabbitmq/toke.git
+https://github.com/rabbitmq/webmachine-wrapper.git
