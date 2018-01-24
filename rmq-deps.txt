@@ -13,10 +13,12 @@ https://github.com/gotthardp/gen_smtp.git
 https://github.com/heroku/ranch_proxy_protocol.git
 https://github.com/hyperthunk/hamcrest-erlang.git
 https://github.com/inaka/elvis.mk.git
+https://github.com/lz4/lz4.git
 https://github.com/mochi/mochiweb.git
 https://github.com/ninenines/ranch.git
 https://github.com/ninenines/cowboy.git
 https://github.com/ninenines/cowlib.git
+https://github.com/ninenines/nif_helpers.git
 https://github.com/manopapad/proper.git
 https://github.com/rebar/rebar.git
 https://github.com/talentdeficit/jsx.git
@@ -24,6 +26,7 @@ https://github.com/rabbitmq/eldap-wrapper.git
 https://github.com/rabbitmq/cowboy-wrapper.git
 https://github.com/rabbitmq/cth_styledout.git
 https://github.com/rabbitmq/looking-glass.git
+https://github.com/rabbitmq/lz4-erlang.git
 https://github.com/rabbitmq/mochiweb-wrapper.git
 https://github.com/rabbitmq/sockjs-erlang.git
 https://github.com/rabbitmq/sockjs-erlang-wrapper.git
