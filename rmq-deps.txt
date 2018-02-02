@@ -22,6 +22,7 @@ https://github.com/ninenines/nif_helpers.git
 https://github.com/manopapad/proper.git
 https://github.com/rebar/rebar.git
 https://github.com/talentdeficit/jsx.git
+https://github.com/rabbitmq/aten.git
 https://github.com/rabbitmq/eldap-wrapper.git
 https://github.com/rabbitmq/cowboy-wrapper.git
 https://github.com/rabbitmq/cth_styledout.git
