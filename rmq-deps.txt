@@ -15,7 +15,7 @@ https://github.com/hyperthunk/hamcrest-erlang.git
 https://github.com/inaka/elvis.mk.git
 https://github.com/lz4/lz4.git
 https://github.com/mochi/mochiweb.git
-https://github.com/ninenines/ci.erlang.mk
+https://github.com/ninenines/ci.erlang.mk.git
 https://github.com/ninenines/cowboy.git
 https://github.com/ninenines/cowlib.git
 https://github.com/ninenines/nif_helpers.git
