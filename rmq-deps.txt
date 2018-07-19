@@ -2,6 +2,7 @@ https://github.com/DeadZen/goldrush.git
 https://github.com/basho/goldrush.git
 https://github.com/basho/lager.git
 https://github.com/basho/webmachine.git
+https://github.com/dvv/base64url.git
 https://github.com/emqtt/emqttc.git
 https://github.com/emqtt/gen_logger.git
 https://github.com/eproxus/meck.git
