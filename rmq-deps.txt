@@ -22,6 +22,7 @@ https://github.com/ninenines/cowlib.git
 https://github.com/ninenines/nif_helpers.git
 https://github.com/ninenines/ranch.git
 https://github.com/manopapad/proper.git
+https://github.com/potatosalad/erlang-jose.git
 https://github.com/rebar/rebar.git
 https://github.com/schlagert/syslog.git
 https://github.com/seancribbs/eunit_formatters.git
