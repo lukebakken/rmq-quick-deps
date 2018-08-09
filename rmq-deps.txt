@@ -103,6 +103,7 @@ https://github.com/rabbitmq/rabbitmq-web-mqtt.git
 https://github.com/rabbitmq/rabbitmq-web-mqtt-examples.git
 https://github.com/rabbitmq/rabbitmq-website.git
 https://github.com/rabbitmq/rabbitmq-public-umbrella.git
+https://github.com/rabbitmq/ranch_proxy_protocol.git
 https://github.com/rabbitmq/toke.git
 https://github.com/rabbitmq/trust_store_http.git
 https://github.com/rabbitmq/webmachine-wrapper.git
