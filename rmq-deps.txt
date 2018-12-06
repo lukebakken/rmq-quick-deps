@@ -32,6 +32,7 @@ https://github.com/rabbitmq/eldap-wrapper.git
 https://github.com/rabbitmq/cowboy-wrapper.git
 https://github.com/rabbitmq/cth_styledout.git
 https://github.com/rabbitmq/gen-batch-server.git
+https://github.com/rabbitmq/inet_tcp_proxy.git
 https://github.com/rabbitmq/looking-glass.git
 https://github.com/rabbitmq/lz4-erlang.git
 https://github.com/rabbitmq/mochiweb-wrapper.git
