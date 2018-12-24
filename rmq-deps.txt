@@ -93,6 +93,7 @@ https://github.com/rabbitmq/rabbitmq-sharding.git
 https://github.com/rabbitmq/rabbitmq-shovel.git
 https://github.com/rabbitmq/rabbitmq-shovel-management.git
 https://github.com/rabbitmq/rabbitmq-stomp.git
+https://github.com/rabbitmq/rabbitmq-sysmon.git
 https://github.com/rabbitmq/rabbitmq-toke.git
 https://github.com/rabbitmq/rabbitmq-top.git
 https://github.com/rabbitmq/rabbitmq-tracing.git
