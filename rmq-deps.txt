@@ -1,4 +1,5 @@
 https://github.com/DeadZen/goldrush.git
+https://github.com/Kyorai/cuttlefish.git
 https://github.com/basho/goldrush.git
 https://github.com/basho/lager.git
 https://github.com/basho/webmachine.git
