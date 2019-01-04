@@ -94,7 +94,6 @@ https://github.com/rabbitmq/rabbitmq-sharding.git
 https://github.com/rabbitmq/rabbitmq-shovel.git
 https://github.com/rabbitmq/rabbitmq-shovel-management.git
 https://github.com/rabbitmq/rabbitmq-stomp.git
-https://github.com/rabbitmq/rabbitmq-sysmon.git
 https://github.com/rabbitmq/rabbitmq-toke.git
 https://github.com/rabbitmq/rabbitmq-top.git
 https://github.com/rabbitmq/rabbitmq-tracing.git
@@ -108,6 +107,7 @@ https://github.com/rabbitmq/rabbitmq-web-mqtt-examples.git
 https://github.com/rabbitmq/rabbitmq-website.git
 https://github.com/rabbitmq/rabbitmq-public-umbrella.git
 https://github.com/rabbitmq/ranch_proxy_protocol.git
+https://github.com/rabbitmq/sysmon-handler.git
 https://github.com/rabbitmq/toke.git
 https://github.com/rabbitmq/trust_store_http.git
 https://github.com/rabbitmq/webmachine-wrapper.git
