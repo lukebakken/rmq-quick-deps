@@ -30,6 +30,7 @@ https://github.com/seancribbs/eunit_formatters.git
 https://github.com/talentdeficit/jsx.git
 https://github.com/rabbitmq/aten.git
 https://github.com/rabbitmq/eldap-wrapper.git
+https://github.com/rabbitmq/emqttc.git
 https://github.com/rabbitmq/cowboy-wrapper.git
 https://github.com/rabbitmq/cth_styledout.git
 https://github.com/rabbitmq/gen-batch-server.git
