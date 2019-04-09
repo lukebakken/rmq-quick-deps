@@ -38,6 +38,7 @@ https://github.com/rabbitmq/inet_tcp_proxy.git
 https://github.com/rabbitmq/looking-glass.git
 https://github.com/rabbitmq/lz4-erlang.git
 https://github.com/rabbitmq/mochiweb-wrapper.git
+https://github.com/rabbitmq/mnevis.git
 https://github.com/rabbitmq/sockjs-erlang.git
 https://github.com/rabbitmq/sockjs-erlang-wrapper.git
 https://github.com/rabbitmq/ra.git
