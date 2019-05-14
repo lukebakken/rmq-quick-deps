@@ -117,3 +117,4 @@ https://github.com/rabbitmq/toke.git
 https://github.com/rabbitmq/trust_store_http.git
 https://github.com/rabbitmq/webmachine-wrapper.git
 https://github.com/sstephenson/bats.git
+https://github.com/zhongwencool/observer_cli.git
